@@ -1,6 +1,5 @@
 [home](tyhsieh4.github.io/) | [cv](https://tyhsieh4.github.io//files/Tsung%20Yiou%20Hsieh%20-%20CV.pdf) | [research](https://tyhsieh4.github.io//research.html) | [teaching](https://tyhsieh4.github.io//teaching.html)
 
-
 ## Overview of my research:
 
 A problem I am currently working on is related to how can a brand's media strategy and CRM strategy be integrated?
