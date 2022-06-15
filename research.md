@@ -2,7 +2,7 @@
 
 
 
-## Overview of my research:
+### Overview of my research:
 
 A problem I am currently working on is related to how can a brand's media strategy and CRM strategy be integrated?
 
