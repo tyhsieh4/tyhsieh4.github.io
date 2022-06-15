@@ -1,4 +1,4 @@
-[home](tyhsieh4.github.io/) [cv](tyhsieh4.github.io/) [research](tyhsieh4.github.io/) [teaching](tyhsieh4.github.io/)
+[home](tyhsieh4.github.io/) [cv]([tyhsieh4.github.io/](https://tyhsieh4.github.io//files/Tsung%20Yiou%20Hsieh%20-%20CV.pdf)) [research](tyhsieh4.github.io/) [teaching](tyhsieh4.github.io/)
 
 
 I am an empirical modeler who is interested in applying quantitative methods to answer managerially interesting questions. 
