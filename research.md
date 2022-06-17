@@ -4,7 +4,7 @@
 
 ### Overview of my research:
 
-A problem I am currently working on is related to how can a brand's media strategy and CRM strategy be integrated?
+A problem I am currently working on is related to the integration of a brand's media strategy and CRM strategy.
 
 My dissertation investigates the potential of the "customer-centric TV advertising strategy", a combination of a brand's advertising and CRM strategy. In the dissertation, I develop a decision support system that optimizes the addressable TV advertising targeting decisions along the customer lifecycle.
 
