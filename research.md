@@ -12,7 +12,7 @@ I am also interested in developing marketing intelligence tools for quantitative
 
 ### working papers:
 
-
+<p>
 <ins> Assessing the Potential of Addressable TV Advertising </ins>
 
 Rex Du and Tsung Yiou Hsieh 
@@ -23,14 +23,11 @@ Rex Du and Tsung Yiou Hsieh
   
 Addressable linear TV allows advertisers to target individual households watching the same linear programming with different ad insertions. This study assesses the potential lift in ad efficacy of addressable linear TV over traditional linear TV. We calibrate an ad response model by matching, for a panel of 731,393 households over 15 months, second-by-second linear TV viewing data with conversion data from an online vendor of personal financial information and services. Our model estimates (1) the same-day and one-month carryover effects of the focal brand’s TV ads, and (2) two dimensions of heterogeneity—the likelihood of a household being in the focal market, and conditional on being in the market, its responsiveness to the focal brand’s TV ads. Using the calibrated model, we predict the average incremental conversions per one thousand ad impressions that could result from alternative targeting strategies. Simulation results suggest that there can be a substantial lift in efficacy when traditional TV advertisers switch some ad buys to addressable TV and target households with the highest incremental conversion potentials. This lift in ad efficacy gets amplified when a larger portion of linear TV ad inventory becomes addressable or addressable TV ads are deployed for a lower level of reach.
   
-  
-
 </details>    
 
-
+</p>
                
-               
-
+<p>
 <ins> Leveraging Online Search Data as a Source of Market Intelligence </ins>
 
 Rex Du and Tsung Yiou Hsieh 
@@ -43,3 +40,4 @@ Every year billions of users around the world submit trillions of queries online
   
 </details>  
 
+</p>
