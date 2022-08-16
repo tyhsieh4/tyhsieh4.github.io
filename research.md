@@ -14,8 +14,10 @@ I am also interested in developing marketing intelligence tools for quantitative
 ## Job market paper:
 
 <p>
+  
 <ins> Dynamic Addressable TV Advertising Over the Customer Lifecycle </ins>
 
+  
 Tsung Yiou Hsieh, Rex Du, and Shijie Lu
   
 <details>
@@ -25,7 +27,8 @@ Tsung Yiou Hsieh, Rex Du, and Shijie Lu
 Addressable TV advertising enables a customer-centric TV advertising strategy, an integration of TV advertising and customer relationship management (CRM) strategy. We develop a decision-support system that optimizes individual-level TV advertising decisions over the customer lifecycle and investigates the benefits of the customer-centric TV advertising strategy. Our decision-support system consists of an ad response model that flexibly captures the TV advertising effect along the customer lifecycle and a dynamic programming model that links the ad targeting decisions to the customer’s long-term profitability. We apply our decision-support system to large-scale single-source data combining TV viewing data from 1.4 million households and customer purchase data from a leading food delivery platform. We find that the customer’s purchase behavior evolves along the customer lifecycle and the optimal advertising decisions vary significantly across customers and within a customer along the customer lifecycle. Some key findings include: (1) the optimal targeting policy increases the customer’s long-term profitability by 7.5% for an experienced customer to 93% for a prospective customer; (2) addressable TV could be expensive for customer acquisition but cost-efficient for customer development; (3) the focal brand should target customers with low purchase frequency or low purchase recency to increase the return on advertising spending.
   
 </details>      
--  
+  
+   
   
 
 ## Job market paper:
