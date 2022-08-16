@@ -25,9 +25,11 @@ Addressable TV advertising enables a customer-centric TV advertising strategy, a
   
 </details>      
   
+ 
+<p>
+  
 
-### Working papers:
-
+### Working paper:
  
 <p>
 <ins> Assessing the Potential of Addressable TV Advertising </ins>
