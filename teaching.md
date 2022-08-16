@@ -6,3 +6,5 @@
 
 I taught Marketing Analytics (MARK 4339) at the University of Houston.
 
+My marketing analytics class taught students to write R code and apply various R library to solve marketing problems with data.
+
