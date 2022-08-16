@@ -31,11 +31,13 @@ Addressable TV advertising enables a customer-centric TV advertising strategy, a
    
   
 
-## Job market paper:
+## Working paper:
 
 <p>
 <ins> Assessing the Potential of Addressable TV Advertising </ins>
 
+<p>
+  
   *MSI working paper*
   
 Rex Du and Tsung Yiou Hsieh 
@@ -51,9 +53,14 @@ Addressable linear TV allows advertisers to target individual households watchin
 </p>
                
 <p>
+  
+  
 <ins> Leveraging Online Search Data as a Source of Market Intelligence </ins>
   
+  
+  
 *Under review at Foundations and Trends in Marketing*
+  
   
 Rex Du and Tsung Yiou Hsieh 
 
