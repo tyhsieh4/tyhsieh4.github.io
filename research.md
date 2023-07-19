@@ -14,7 +14,7 @@ I am also interested in developing marketing intelligence tools for quantitative
 
 ## Job market paper:
 
-<ins> Dynamic Addressable TV Advertising Over the Customer Lifecycle </ins>
+<ins> Leveraging Large-Scale Granular Single-Source Data for TV Advertising </ins>
 
 Tsung Yiou Hsieh, Rex Du, and Shijie Lu
 
@@ -25,7 +25,7 @@ Tsung Yiou Hsieh, Rex Du, and Shijie Lu
   
   <br />
   
-With recent advances in technologies, marketers are embracing addressable TV advertising, TV advertising that serves targeted ads to different customers who watch the same show at the same time. The emergence of addressable TV enables a customer-centric TV advertising strategy that integrates TV advertising with a customer relationship management (CRM) strategy. In this research, we develop a framework that optimizes customer-level TV advertising decisions over the customer lifecycle and investigates its benefits. Our framework consists of an ad response model that estimates the TV advertising effect along the customer lifecycle through a novel quasi-experimental design and a dynamic programming model that links the ad targeting decisions to the customer long-term value. We apply the framework to a large-scale single-source dataset combining TV viewing behavior from 1.4 million households and customer purchases from a leading food delivery platform. We find that the customer’s purchase behavior evolves along the customer lifecycle and the optimal advertising decisions vary significantly across customers and within customers along the customer lifecycle. Some key findings include: (1) ROIs of the optimal targeting policy range from 62% to 194%; (2) targeting with addressable TV could be expensive for prospective customers but cost-efficient for existing customers; (3) when targeting existing customers, the focal brand should target customers with low purchase frequency or low purchase recency.
+With recent advances in TV ad technologies, marketers are embracing addressable TV advertising, TV advertising that serves targeted ads to different customers who watch the same show at the same time. The emergence of addressable TV enables a customer-centric TV advertising strategy that integrates TV advertising into customer relationship management (CRM). In this research, we develop a framework consisting of an ad response model that estimates the TV advertising effect along the customer lifecycle through a novel quasi-experimental design and a dynamic programming model that optimizes the ad targeting decisions to maximize the customer long-term value. We apply the framework to a large-scale single-source dataset combining TV viewing data from 1.4 million households and customer purchase data from a leading food delivery platform. We show that the effect of advertising dynamically changes along the customer lifecycle with ad elasticity ranging from 0.0 to 0.13. The full impact of advertising could be decomposed into same-day, carryover, and state-dependence effects, accounting for 17.4%, 61.5%, and 21.1% of the full impact. The optimal ad targeting policy accounts for all three effects and provides rich insights on how advertisers should target with addressable TV.
   
 </details>      
 
@@ -55,7 +55,7 @@ Addressable linear TV allows advertisers to target individual households watchin
        
 <ins> Leveraging Online Search Data as a Source of Market Intelligence </ins>   
     
-*Under review at Foundations and Trends in Marketing*   
+*Accepted at Foundations and Trends in Marketing*   
     
 Rex Du and Tsung Yiou Hsieh    
   
