@@ -10,12 +10,22 @@ title: Tsung-Yiou Hsieh
     
     Feel free to email me if you are interested in collaboration!
 
-<b>Email:</b> thsieh@okstate.edu · <b>Linkedin:</b> [@tyhsieh4](https://www.linkedin.com/in/tsung-yiou-hsieh/)
-    
-    **Email:** thsieh@okstate.edu · **GitHub:** [@tyhsieh4](https://github.com/tyhsieh4)
+    <p>
+      <!-- Email icon -->
+      <a href="mailto:thsieh@okstate.edu" style="margin-right:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" 
+             alt="Email" width="24" style="vertical-align:middle;">
+      </a>
+
+      <!-- LinkedIn icon -->
+      <a href="https://www.linkedin.com/in/tsung-yiou-hsieh/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+             alt="LinkedIn" width="24" style="vertical-align:middle;">
+      </a>
+    </p>
   </div>
+
   <div style="margin-left: 20px;">
     <img src="/images/about_pic.jpg" alt="Profile Picture" style="max-width:200px; border-radius:50%;" />
   </div>
 </div>
-
