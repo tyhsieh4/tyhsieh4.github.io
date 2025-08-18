@@ -1,0 +1,31 @@
+title: Tsung-Yiou Hsieh
+tagline: Assistant Professor of Marketing • Advertising • Causal Inference • Machine Learning
+description: >-
+  Personal website and research profile of Tsung-Yiou Hsieh. Interests: advertising effectiveness, causal inference, and data science for marketing.
+url: https://tyhsieh4.github.io
+baseurl: ""
+theme: minima
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+
+# Navigation (appears in the header)
+minima:
+  skin: auto
+  social_links:
+    - {"platform": "github", "user_url": "https://github.com/tyhsieh4"}
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
