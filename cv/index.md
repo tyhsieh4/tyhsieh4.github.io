@@ -4,5 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-Download my latest CV:  
-➡️ **[Tsung-Yiou Hsieh — CV (PDF)](/cv/Tsung-Yiou-Hsieh-CV-2025.pdf)**
+# Curriculum Vitae
+
+<embed src="/cv/Tsung-Yiou-Hsieh-CV-2025.pdf" type="application/pdf" width="100%" height="800px" />
+
+If the CV does not display, you can also [download it here](/cv/Tsung-Yiou-Hsieh-CV-2025.pdf).
