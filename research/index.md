@@ -6,9 +6,9 @@ permalink: /research/
 
 # Publications & Working Papers
 
-## Working Papers
+## **Working Papers**
 
-### Leveraging Large-Scale Granular Single-Source Data for TV Advertising 
+### **Leveraging Large-Scale Granular Single-Source Data for TV Advertising** 
 
 ![TV Advertising Research]({{ site.baseurl }}/images/tv_icon.jpg){: .paper-image}
 
@@ -19,7 +19,7 @@ permalink: /research/
 
 ---
 
-### Measuring Heterogeneity in TV Advertising Elasticities: Evidence from 135 Retail and Restaurant Brands 
+### **Measuring Heterogeneity in TV Advertising Elasticities: Evidence from 135 Retail and Restaurant Brands** 
 
 ![TV Advertising Heterogeneity]({{ site.baseurl }}/images/tv_target_icon.jpg){: .paper-image}
 
@@ -30,9 +30,9 @@ permalink: /research/
 
 ---
 
-## Published Papers
+## **Published Papers**
 
-### Leveraging Online Search Data as a Source of Market Intelligence
+### **Leveraging Online Search Data as a Source of Market Intelligence**
 
 ![Search Data Research]({{ site.baseurl }}/images/search_icon.jpg){: .paper-image}
 
